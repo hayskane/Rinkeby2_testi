@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCcA2e3eB04e5eE2f048b4645AbEdD2c2DcF0450f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcca2e3eb04e5ee2f048b4645abedd2c2dcf0450f",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RIN",
+    "ID": 4
+  },
+  "NFT_NAME": "TestBroken",
+  "SYMBOL": "TBA",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
